@@ -3,9 +3,15 @@ My first babylonjs demo
 
 
 
+
+
+
 npm install
 
 npm run start
+
+
+
 
 
 
@@ -14,6 +20,9 @@ With babylonjs, babylonjs-loaders, pepjs,
 
 What i've done:
 	preview 3D demo with gltf, and print texture on it.
+
+
+
 
 todo
 
