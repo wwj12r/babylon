@@ -1,0 +1,39 @@
+{
+  "name": "babylon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch",
+    "start": "webpack-dev-server --open",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babylonjs": "^4.2.0",
+    "vconsole": "^3.3.4",
+    "babylonjs-gui": "^4.2.0",
+    "babylonjs-loaders": "^4.2.0",
+    "babylonjs-materials": "^4.2.0",
+    "babylonjs-post-process": "^4.2.0",
+    "babylonjs-procedural-textures": "^4.2.0",
+    "babylonjs-serializers": "^4.2.0",
+    "babylonjs-viewer": "^4.2.0",
+    "clean-webpack-plugin": "^3.0.0",
+    "copy-webpack-plugin": "^6.1.0",
+    "css-loader": "^4.3.0",
+    "html-webpack-plugin": "^4.4.1",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0",
+    "pepjs": "^0.5.3",
+    "handjs": "^1.3.11"
+  },
+  "dependencies": {
+    "handjs": "^1.3.11",
+    "pepjs": "^0.5.3"
+  }
+}
