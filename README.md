@@ -4,6 +4,7 @@ My first babylonjs demo
 
 
 npm install
+
 npm run start
 
 
