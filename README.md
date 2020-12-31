@@ -1,12 +1,17 @@
 # babylon
-My babylonjs demo
+My first babylonjs demo
+
+
 
 npm install
 npm run start
 
+
+
 With babylonjs, babylonjs-loaders, pepjs,
 
-What 
+What i've done:
+	preview 3D demo with gltf, and print texture on it.
 
 todo
 1.No support for old browser which not support Window.PointerEvent, so 
