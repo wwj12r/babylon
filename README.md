@@ -10,10 +10,12 @@ npm run start
 
 With babylonjs, babylonjs-loaders, pepjs,
 
+
 What i've done:
 	preview 3D demo with gltf, and print texture on it.
 
 todo
+
 1.No support for old browser which not support Window.PointerEvent, so 
   fix it by calculating camera.position when doing touchmove.
 
