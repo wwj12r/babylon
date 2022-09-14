@@ -32,3 +32,5 @@ todo
 2.Drag mesh and change all meshes in position where need to be.
 
 3.Customizer: canvas to 3D immediately.
+
+Theresa said this style of writing is non-existent :(
